@@ -10,7 +10,9 @@ I'm an aspiring UI/UX Designer, where I first started my journey at BCIT. I'm a 
 <a href='https://jasonkwak.ca/'>Portfolio</a> <br/>
 
 <h2>Front-End Development Stack:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,wordpress,webflow,vercel,vscode,mui,prisma,lottie,mysql,aws)](https://skillicons.dev)
+
 
 
 <h2>Design Softwares & Applications:</h2>
